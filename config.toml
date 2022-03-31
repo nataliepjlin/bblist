@@ -1,4 +1,4 @@
-baseurl = "https://blist.vercel.app"
+baseurl = "https://nataliepjlin.github.io/bblist/"
 metaDataFormat = "yaml"
 title = "UNPLASTIFY"
 theme = "blist"
