@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>emoji on UNPLASTIFY</title>
-    <link>https://blist.vercel.app/tags/emoji/</link>
+    <link>https://nataliepjlin.github.io/bblist/tags/emoji/</link>
     <description>Recent content in emoji on UNPLASTIFY</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blist.vercel.app/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nataliepjlin.github.io/bblist/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>https://blist.vercel.app/blog/emoji-support/</link>
+      <link>https://nataliepjlin.github.io/bblist/blog/emoji-support/</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://blist.vercel.app/blog/emoji-support/</guid>
+      <guid>https://nataliepjlin.github.io/bblist/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
