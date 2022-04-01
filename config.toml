@@ -33,7 +33,7 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.en.menu.main]]
         name = "最新文章"
-        url = "/blog/emoji-support/"
+        url = "blog/emoji-support/"
         weight = 4
 
  
@@ -61,8 +61,8 @@ DefaultContentLanguageInSubdir = true
   # Global params xommon for both languages
   title = "追蹤我們"
   description = "掌握關於我們的最新訊息!"
-  instagram = "https://instagram.com/"
-  facebook = "https://facebook.com/"
+  instagram = "https://instagram.com/unplastifyyouth"
+  facebook = "https://facebook.com/unplastifyyouth2020"
 
 [[menu.main]]
   name = "About"
