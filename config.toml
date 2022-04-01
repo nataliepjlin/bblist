@@ -43,7 +43,7 @@ DefaultContentLanguageInSubdir = true
   darkModeToggle = false
   
   # Enable search in header
-  enableSearch = false
+  enableSearch = true
 
   # Custom copyright - optional
   copyright = "Copyright © 2022 - UNPLASTIFY · All rights reserved"
