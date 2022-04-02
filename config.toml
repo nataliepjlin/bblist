@@ -11,7 +11,7 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "We are UNPLASTIFY"
+      introTitle = "We are UNPLASTIFY YOUTH"
       introSubtitle = "我們是一群北一女中的學生<br>我們相信每一片土地和人同樣值得被友善對待"
       introPhoto = "/bblist/up_team.jpg"
       logo = "/bblist/logo.jpg"
