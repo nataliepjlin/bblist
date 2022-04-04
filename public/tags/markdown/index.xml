@@ -16,12 +16,13 @@
     </item>
     
     <item>
-      <title>Placeholder Text</title>
+      <title>中文測試</title>
       <link>https://nataliepjlin.github.io/bblist/blog/placeholder-text/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nataliepjlin.github.io/bblist/blog/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      <description>&lt;p&gt;這是一行內文。&lt;/p&gt;
+&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     
   </channel>
